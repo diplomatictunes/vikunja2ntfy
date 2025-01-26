@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+aiosqlite
+psycopg2-binary
+requests
